@@ -7,4 +7,3 @@ lib/Mail/IMAPQueue.pm
 t/lib/Mail/IMAPQueue/TestServer.pm
 t/00-load.t
 t/10-queue.t
-META.yml                                 Module meta-data (added by MakeMaker)
